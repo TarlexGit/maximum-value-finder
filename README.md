@@ -4,4 +4,5 @@ The script finds the maximum values for the "price" and "rating" columns from th
 
 commands: 
 > go run main.go db.csv
+
 > go run main.go db.json
