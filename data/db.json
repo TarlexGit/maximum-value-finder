@@ -1,0 +1,8 @@
+[
+    {"product": "Cookie", "price": 34, "rating": 3},
+    {"product": "Sugar", "price": 45, "rating": 2},
+    {"product": "Jam", "price": 200, "rating": 10},
+    {"product": "Cookie2", "price": 33, "rating": 3},
+    {"product": "Sugar2", "price": 222, "rating": 2},
+    {"product": "Jam2", "price": 333, "rating": 5}
+]
